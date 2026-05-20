@@ -35,4 +35,4 @@ platforms including TryHackMe, LetsDefend, and CyberDefenders.
 
   ## Contact
 
-## Linkedin: [Christabel Samuel](https://www.linkedin.com/in/christabelsamuel1/)
+**LinkedIn:** [Christabel Samuel](https://www.linkedin.com/in/christabelsamuel1/)
