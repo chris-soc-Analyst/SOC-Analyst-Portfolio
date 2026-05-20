@@ -31,7 +31,7 @@ platforms including TryHackMe, LetsDefend, and CyberDefenders.
 
 - **[Detection Rules](./Detection-Rules/)** — Splunk SPL detection queries
 
-- **[Investigation Reports](./Investigation-Reports/)** — 20+ incident investigations covering:
+- **[Investigation Reports](./Investigation-Reports/)** — 20+ incident investigations completed covering:
 - Brute Force (T1110)
 - Phishing & Social Engineering (T1566)
 - SQL Injection (T1190)
@@ -53,16 +53,14 @@ platforms including TryHackMe, LetsDefend, and CyberDefenders.
 - **[IOC Reference](./IOC-Reference/)** — Threat intelligence lookups
   
 ```
-- SOC Playbook → My triage process
-- IOC Reference → Threat intelligence lookups
 
-  ## Contact
+
+## Contact
 
 - **LinkedIn:** [Christabel Samuel](https://www.linkedin.com/in/christabelsamuel1/)
 
 - **Email:** christabelsamuel38@gmail.com
 
 - **GitHub:** https://github.com/chris-soc-Analyst/SOC-Analyst-Portfolio.git
-
-
-
+ 
+```
