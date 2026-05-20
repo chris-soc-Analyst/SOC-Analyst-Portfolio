@@ -29,7 +29,17 @@ platforms including TryHackMe, LetsDefend, and CyberDefenders.
 
 ## What's In This Portfolio
 - Detection Rules folder → Splunk detection queries
-- Investigation Reports folder → Completed Investigations (20 total)
+- Investigation Reports folder → 20+ incident investigations completed covering attack techniques including:
+- Brute Force (T1110)
+- Phishing & Social Engineering (T1566)
+- SQL Injection (T1190)
+- Ransomware (T1486)
+- Lateral Movement (T1570)
+- Privilege Escalation (T1548)
+- Data Exfiltration (T1567)
+- Malware Analysis (T1204)
+- Command & Control (T1071)
+- And more...
 - SOC Playbook → My triage process
 - IOC Reference → Threat intelligence lookups
 
