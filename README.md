@@ -28,17 +28,30 @@ platforms including TryHackMe, LetsDefend, and CyberDefenders.
   
 
 ## What's In This Portfolio
-- Detection Rules folder → Splunk detection queries
-- Investigation Reports folder → 20+ incident investigations completed covering attack techniques including:
+
+- **[Detection Rules](./Detection-Rules/)** — Splunk SPL detection queries
+
 - **[Investigation Reports](./Investigation-Reports/)** — 20+ incident investigations covering:
-- Brute Force attacks
-- Phishing emails
-- SQL Injection
-- Ransomware
-- Lateral Movement
-- Privilege Escalation
-- Data Exfiltration
-- Malware Analysis
+- Brute Force (T1110)
+- Phishing & Social Engineering (T1566)
+- SQL Injection (T1190)
+- Ransomware (T1486)
+- Lateral Movement (T1570)
+- Privilege Escalation (T1548)
+- Data Exfiltration (T1567)
+- Malware Analysis (T1204)
+- Command & Control (T1071)
+- Credential Access (T1078)
+- Defense Evasion (T1036)
+- Persistence (T1547)
+- And more...
+
+- **[Incident Reports](./Incident-Reports/)** — Formal incident response reports
+
+- **[SOC Playbook](./SOC-Playbook/)** — My personal triage process
+
+- **[IOC Reference](./IOC-Reference/)** — Threat intelligence lookups
+  
 ```
 - SOC Playbook → My triage process
 - IOC Reference → Threat intelligence lookups
