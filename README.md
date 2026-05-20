@@ -1,6 +1,6 @@
-Christabel Samuel — SOC Analyst Portfolio
+### Christabel Samuel — SOC Analyst Portfolio
 
-About Me
+## About Me
 Security+ certified SOC analyst with hands-on experience in 
 threat detection, log analysis, and incident response.
 
@@ -14,7 +14,7 @@ I'm also actively building real-world skills across Splunk, Windows
 Event Codes, MITRE ATT&CK framework, and blue team investigation 
 platforms including TryHackMe, LetsDefend, and CyberDefenders.
 
-Key Skills
+## Key Skills
 
 - **SIEM:** Splunk SPL — detection rules, dashboards, alert triage
 - **Log Analysis:** Windows Security Events (4624, 4625, 4648, 4720, 4740)
@@ -22,12 +22,12 @@ Key Skills
 - **Threat Intel:** VirusTotal, AbuseIPDB, Shodan — IOC enrichment
 - **Incident Response:** Alert triage, investigation, formal report
 
-Certifications
+## Certifications
 - CompTIA Security+
 - Currently completing: 28-day hands-on SOC lab challenge - inprogress
   
 
-What's In This Portfolio
+## What's In This Portfolio
 - Detection Rules folder → Splunk detection queries
 - Investigation Reports folder → Completed Investigations (20 total)
 - SOC Playbook → My triage process
