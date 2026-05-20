@@ -33,4 +33,6 @@ platforms including TryHackMe, LetsDefend, and CyberDefenders.
 - SOC Playbook → My triage process
 - IOC Reference → Threat intelligence lookups
 
-[Click the folders above to explore]
+  ## Contact
+
+## Linkedin: [Christabel Samuel](https://www.linkedin.com/in/christabelsamuel1/)
