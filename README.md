@@ -22,12 +22,12 @@ Key Skills
 - **Threat Intel:** VirusTotal, AbuseIPDB, Shodan — IOC enrichment
 - **Incident Response:** Alert triage, investigation, formal report
 
-- Certifications
+Certifications
 - CompTIA Security+
 - Currently completing: 28-day hands-on SOC lab challenge - inprogress
   
 
-- What's In This Portfolio
+What's In This Portfolio
 - Detection Rules folder → Splunk detection queries
 - Investigation Reports folder → Completed Investigations (20 total)
 - SOC Playbook → My triage process
