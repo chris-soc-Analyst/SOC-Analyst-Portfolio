@@ -52,7 +52,6 @@ platforms including TryHackMe, LetsDefend, and CyberDefenders.
 
 - **[IOC Reference](./IOC-Reference/)** — Threat intelligence lookups
   
-```
 
 
 ## Contact
@@ -63,4 +62,3 @@ platforms including TryHackMe, LetsDefend, and CyberDefenders.
 
 - **GitHub:** https://github.com/chris-soc-Analyst/SOC-Analyst-Portfolio
  
-```
