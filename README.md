@@ -57,10 +57,10 @@ platforms including TryHackMe, LetsDefend, and CyberDefenders.
 
 ## Contact
 
-- **LinkedIn:** [Christabel Samuel](https://www.linkedin.com/in/christabelsamuel1/)
+- **[LinkedIn]:** [Christabel Samuel](https://www.linkedin.com/in/christabelsamuel1/)
 
 - **Email:** christabelsamuel38@gmail.com
 
-- **GitHub:** https://github.com/chris-soc-Analyst/SOC-Analyst-Portfolio.git
+- **GitHub:** https://github.com/chris-soc-Analyst/SOC-Analyst-Portfolio
  
 ```
